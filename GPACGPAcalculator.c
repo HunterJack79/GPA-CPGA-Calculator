@@ -2,7 +2,6 @@
 #include <string.h>
 #include <stdlib.h>
 #pragma warning (disable:4996)
-
 #define MAX_STUDENTS 5000
 #define MAX_SEMESTERS 3
 #define MAX_COURSES_PER_SEMESTER 10
